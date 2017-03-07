@@ -4,7 +4,7 @@ title: Memory unscented particle filter for 6-DOF tactile localization
 ---
 
 
-
+## Abstract
 This paper addresses 6-DOF (degree-of-freedom) tactile localization, i.e. the pose estimation of tridimensional
 objects given tactile measurements. This estimation problem is fundamental for the operation of autonomous robots that are
 often required to manipulate and grasp objects whose pose is a-priori unknown. The nature of tactile measurements, the strict
@@ -17,6 +17,7 @@ towards regions of the search space that are more likely with the measurements. 
 algorithm has been assessed both in simulation and on a real robotic system equipped with tactile sensors (i.e., the iCub
 humanoid robot). The experiments show that the algorithm provides accurate and reliable localization even with a low number of particles and, hence, is compatible with real-time requirements.
 
+This work has been conditionally accepted to IEEE Transaction on Robotics.
 A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf)
 
 [Go back to the home page](./)
