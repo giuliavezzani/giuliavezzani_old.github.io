@@ -32,7 +32,7 @@ The goal of my PhD program is to improve object localization and manipulation fo
 exploiting both visual and tactile information and to implement and test the developed techniques on the
 humanoid robot iCub.
 
-# Currently
+# Current position
 
 I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia), Bioengineering and Advanced
  Robotics, curriculum Humanoid and Advanced Robotics, Istituto Italiano di Tecnologia &
@@ -50,7 +50,7 @@ by merging vision and tactile information for the humanoid robot iCub.
 - [52 th IEEE Conference on Decision and Control]()
 
 
-# Submitted Papers
+# Submitted papers
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico.
@@ -95,18 +95,6 @@ end
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
