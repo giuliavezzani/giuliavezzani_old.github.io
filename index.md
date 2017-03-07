@@ -63,9 +63,9 @@ by merging vision and tactile information for the humanoid robot iCub.
 # Awards
 - **Ras Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
  Singapore, June 2017.
-- Dr. Kanako Miura Travel Support Award, at IEEE International Conference on Humanoids
+- **Dr. Kanako Miura Travel Support Award**, at IEEE International Conference on Humanoids
  Robotics, Cancun, Mexico, Novmber 2016.
- - AEIT Renato Marian Award, as best student graduated in Information Engineering, Florence, Italy
+ - **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
  
 
 
