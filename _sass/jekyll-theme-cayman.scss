@@ -124,7 +124,8 @@ a {
 
 .project-tagline {
   margin-bottom: 2rem;
-  font-weight: medium;
+  font-weight: normal;
+  font-size: medium;
   
 
   @include large {
