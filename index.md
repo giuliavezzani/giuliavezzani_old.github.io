@@ -67,6 +67,9 @@ by merging vision and tactile information for the humanoid robot iCub.
  Robotics, Cancun, Mexico, Novmber 2016.
  - **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
  
+# Something more
 
+- [My linkedin  page](https://it.linkedin.com/in/giuliavezzani)
+- [My Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
 
 
