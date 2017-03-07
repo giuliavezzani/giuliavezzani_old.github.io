@@ -2,7 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Who I am
+
+I’m an automation engineer, eager to improve my knowledge in humanoid robotics and to give a personal
+contribution to the research. My work and my studies are motivated by personal achievements as well as
+my passion on robotics. During my study and my research experience, I showed an excellent capability
+of reaching goals by working on individual basis and teaming up with my collegues. I feel dealing with
+challenging problems very exciting and thus I am very prone to work hard and find suitable solutions.
 
 [Link to another page](another-page).
 
