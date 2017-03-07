@@ -10,6 +10,15 @@ my passion on robotics. During my study and my research experience, I showed an 
 of reaching goals by working on individual basis and teaming up with my collegues. I feel dealing with
 challenging problems very exciting and thus I am very prone to work hard and find suitable solutions.
 
+# 6 facts about me
+- _Automation engineer_, with one year experience on the humanoid robot _iCub_.
+- Considerable theoretical background in automation and _Bayesian filtering_.
+- Proven _C++ skills_, with a good knowledge of YARP and iCub libraries.
+- 3 years experience on _Linux_-based systems.
+- _Hardware experience_ with the humanoid robotic platform iCub.
+- Main interests in _humanoid robotics_: grasping, localization, manupilation, perception, vision
+  and 3D object modeling.
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
