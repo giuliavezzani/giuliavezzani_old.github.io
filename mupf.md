@@ -1,8 +1,9 @@
 ---
 layout: secondary
+title: Memory unscented particle filter for 6-DOF tactile localization
 ---
 
-## Memory unscented particle filter for 6-DOF tactile localization,
+
 
 Abstract ....
 
