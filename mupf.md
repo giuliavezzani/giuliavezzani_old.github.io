@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: secondary
 ---
 
 ## Memory unscented particle filter for 6-DOF tactile localization,
