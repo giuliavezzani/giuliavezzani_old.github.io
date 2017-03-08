@@ -43,21 +43,21 @@ by merging **vision and tactile information** for the humanoid robot iCub.
 
 # Experience
 
-<details>
+<details style="margin-left: 25px;">
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b> </summary>
         <p style="margin-left: 25px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
         My work for the TacMan project contributed to improving <b>recognition and manipulation skills</b> for the
 humanoid robot iCub. I developed a model-based tactile object localization and recognition algorithm
 and a novel pipeline in order to make the iCub robot perform the <b>handover task</b>, i.e. transfer an
 object from one hand to the other.</p></details>
- <details>
+ <details style="margin-left: 25px;">
    <summary> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </summary>
    <p style="margin-left: 50px;"> BMM summer school is organized by Harvard Medical School
 September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course will give advanced students a “deep end” introduction to the problem
 of intelligence – how the brain produces intelligent behavior and how we may be able to replicate
 intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of <b>detecting and recognize activities in real videos</b>. We achieved our goal by modeling the problem through <b>Hidden Markov Models</b> and by using <b>Bayesian Regression</b> as main approach.</p>
  </details>
- <details>
+ <details style="margin-left: 25px;">
    <summary>  <b>International Computer Vision Summer School (ICVSS 2016)</b>  </summary>
         <p style="margin-left: 25px;">ICVSS is organized by University
 of Cambridge and University of Catania, Ragusa, Italy.
@@ -67,7 +67,7 @@ Vision. The courses will be delivered by world renowned experts in the field, fr
 industry, and will cover both theoretical and practical aspects of real Computer Vision problems as
 well as examples of their successful commercialisation. (Selected students: 150/396.)</p>
  </details>
- <details>
+ <details style="margin-left: 25px;">
    <summary>  <b>Research Fellow @ iCub Facility (2015)</b>  </summary>
         <p style="margin-left: 25px;">I have partnered with the Italian Institute of Technology during my <b>M.Sc. thesis</b>, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
 object, whose model is known  by using the tactile measurements collected with the robot iCub.</p>
@@ -77,7 +77,7 @@ object, whose model is known  by using the tactile measurements collected with t
        <p style="margin-left: 25x;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
 </details>
-<details>
+<details style="margin-left: 25px;">
    <summary>  <b>52th IEEE Conference on Decision and Control (CDC 2013)</b>  </summary>
         <p style="margin-left: 25px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
 advancement of the theory and practice of systems and control.</p>
