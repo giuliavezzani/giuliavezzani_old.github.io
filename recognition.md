@@ -19,6 +19,5 @@ of the proposed approach has been assessed both in simulation and on a real robo
 the iCub humanoid robot). The experiments show that our approach provides good recognition performance and is able
 to discriminate objects that are similar even in presence of noisy measurements.
 
-This work has been published in the  Proceeding of the IEEE International Conference on Humanoid Robotics, Cancun,Mexico, 2016.
-The final version of the manuscript is available [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/recognition.pdf).
+This work has been published in the  Proceeding of the IEEE International Conference on Humanoid Robotics, Cancun,Mexico, 2016.You can download the final version of the manuscript [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/recognition.pdf).
 
