@@ -44,7 +44,7 @@ by merging **vision and tactile information** for the humanoid robot iCub.
 # Experience
 
  <details>
-   <summary> <li style="margin-left: 50px;"> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
+   <summary> <li style="margin-left: 50px;"> <b>Europen Project TacMan: Tactile Manipulation (2017)</b> </li> </summary>
         <p style="margin-left: 50px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
         My work for the TacMan project contributed to improving <b>recognition and manipulation skills</b> for the
 humanoid robot iCub. I developed a model-based tactile object localization and recognition algorithm
@@ -69,17 +69,17 @@ industry, and will cover both theoretical and practical aspects of real Computer
 well as examples of their successful commercialisation. (Selected students: 150/396.)</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
+   <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility (2015)</b> </li> </summary>
         <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my <b>M.Sc. thesis</b>, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
 object, whose model is known  by using the tactile measurements collected with the robot iCub.</p>
 </details>
 <details>
-  <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
+  <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici (VVV 2015)</b> </li> </summary>
        <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
 </details>
 <details>
-   <summary> <li style="margin-left: 50px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
+   <summary> <li style="margin-left: 50px;"> <b>52th IEEE Conference on Decision and Control (CDC 2013)</b> </li> </summary>
         <p style="margin-left: 50px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
 advancement of the theory and practice of systems and control.</p>
 </details>
