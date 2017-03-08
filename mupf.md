@@ -23,4 +23,4 @@ A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf
 
 ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/hand.jpg)
 
-[Go back to the home page](./)
+[Home page](./)
