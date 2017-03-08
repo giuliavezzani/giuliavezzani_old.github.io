@@ -52,7 +52,7 @@ and a novel pipeline in order to make the iCub robot perform the <b>handover tas
 object from one hand to the other.</p></details>
  <details style="margin-left: 20px;">
    <summary> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </summary>
-   <p style="margin-left: 50px;"> BMM summer school is organized by Harvard Medical School
+   <p style="margin-left: 25px;"> BMM summer school is organized by Harvard Medical School
 September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course will give advanced students a “deep end” introduction to the problem
 of intelligence – how the brain produces intelligent behavior and how we may be able to replicate
 intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of <b>detecting and recognize activities in real videos</b>. We achieved our goal by modeling the problem through <b>Hidden Markov Models</b> and by using <b>Bayesian Regression</b> as main approach.</p>
