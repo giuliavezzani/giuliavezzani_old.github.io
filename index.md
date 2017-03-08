@@ -40,13 +40,9 @@ currently Universita‘ di Genova, Genova, Italy.
 My research project consists of improving 3D object modeling, localization, grasping and manipulation,
 by merging vision and tactile information for the humanoid robot iCub.
 
-<style>
-    li {margin-left: 0px;}
-</style>
 
-<style>
-    li {margin-left: 50px;}
-</style>
+
+<li style="margin-left: 20px;">
 
 # Experience
  <details>
@@ -74,9 +70,7 @@ by merging vision and tactile information for the humanoid robot iCub.
         <p>bla bla bla</p>
  </details>
 
-<style>
-    li {margin-left: 0px;}
-</style>
+
 # Submitted papers
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
