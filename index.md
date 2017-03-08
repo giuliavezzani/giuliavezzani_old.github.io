@@ -77,12 +77,12 @@ object, whose model is known  by using the tactile measurements collected with t
    <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
         <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
- </details>
- <details>
+</details>
+<details>
    <summary> <li style="margin-left: 50px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
         <p style="margin-left: 50px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
 advancement of the theory and practice of systems and control.</p>
- </details>
+</details>
 
 
 # Submitted papers
