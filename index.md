@@ -59,7 +59,7 @@ intelligence in machines. (Selected students: 30/300 nearly.) The school require
  </details>
  <details>
    <summary>  <b>International Computer Vision Summer School (ICVSS 2016)</b>  </summary>
-        <p style="margin-left: 50px;">ICVSS is organized by University
+        <p style="margin-left: 25px;">ICVSS is organized by University
 of Cambridge and University of Catania, Ragusa, Italy.
 The tenth edition of the International Computer Vision Summer School aims to provide both an
 objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer
@@ -69,17 +69,17 @@ well as examples of their successful commercialisation. (Selected students: 150/
  </details>
  <details>
    <summary>  <b>Research Fellow @ iCub Facility (2015)</b>  </summary>
-        <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my <b>M.Sc. thesis</b>, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
+        <p style="margin-left: 25px;">I have partnered with the Italian Institute of Technology during my <b>M.Sc. thesis</b>, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
 object, whose model is known  by using the tactile measurements collected with the robot iCub.</p>
 </details>
 <details>
   <summary>  <b>The iCub Summer School - Veni Vidi Vici (VVV 2015)</b> </summary>
-       <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
+       <p style="margin-left: 25x;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
 </details>
 <details>
    <summary>  <b>52th IEEE Conference on Decision and Control (CDC 2013)</b>  </summary>
-        <p style="margin-left: 50px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
+        <p style="margin-left: 25px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
 advancement of the theory and practice of systems and control.</p>
 </details>
 
