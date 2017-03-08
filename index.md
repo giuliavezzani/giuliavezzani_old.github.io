@@ -71,11 +71,11 @@ well as examples of their successful commercialisation. (Selected students: 150/
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
         <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my M.Sc. thesis, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
-object, whose model is known  by using the tactile measurements collected with the robot iCub./p>
- </details>
- <details>
-   <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
-        <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
+object, whose model is known  by using the tactile measurements collected with the robot iCub.</p>
+</details>
+<details>
+  <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
+       <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
 </details>
 <details>
