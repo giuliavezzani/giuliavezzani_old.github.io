@@ -1,6 +1,7 @@
 ---
 layout: secondary
 title: Memory unscented particle filter for 6-DOF tactile localization
+author: G. Vezzani, U.Pattacini, G. Battistelli, L. Chisci, and L.Natale
 ---
 
 
