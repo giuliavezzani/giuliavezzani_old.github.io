@@ -102,15 +102,16 @@ advancement of the theory and practice of systems and control.</p>
  Robotics, Cancun, Mexico, Novmber 2016.
 - **AEIT Renato Marian Award**, as best student graduated in Information Engineering, Florence, Italy
  
+
+
+## Something more
+If you are interested in my research activities, here you can find:
+
  .moveimage
 {
     position: relative;
     top: 10px;
 }
-
-## Something more
-If you are interested in my research activities, here you can find:
-
 - my linkedin page[<img class="moveimage" src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/linkedin.png" width="40">](https://it.linkedin.com/in/giuliavezzani)
  
 - [my Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
