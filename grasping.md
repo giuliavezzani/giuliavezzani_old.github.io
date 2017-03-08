@@ -15,7 +15,7 @@ which the fingers are located on portions of the object that are occluded by vis
 assessed on a real robotic system, the iCub humanoid robot. The experiments show that the proposed method computes proper
 poses, suitable for grasping even small objects, while avoiding hitting the table with the fingers.
 
-This paper will be available on the Proceedings of IEEE International Conference on Robotics and Automation.
-A preprint is available [here]().
+This paper will be available on the Proceedings of IEEE International Conference on Robotics and Automation, June 2017, Singapore.
+You can download preprint of the paper [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/grasping.pdf).
 
 [Go back to the home page](./)
