@@ -20,4 +20,4 @@ You can download a preprint of the paper [here](https://github.com/giuliavezzani
 
 ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/grasp-min.png)
 
-[Go back to the home page](./)
+[Home page](./)
