@@ -105,7 +105,7 @@ advancement of the theory and practice of systems and control.</p>
  .moveimage
 {
     position: relative;
-    top: 3px;
+    top: 10px;
 }
 
 ## Something more
