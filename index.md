@@ -109,6 +109,6 @@ If you are interested in my research activities, here you can find:
 
 [<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/linkedin.png" width="40">](https://it.linkedin.com/in/giuliavezzani)
  
-- [my Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
+- [<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/google-scholar.png" width="40">](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
 
 
