@@ -1,6 +1,7 @@
 ---
 layout: secondary
 title: A Grasping Approach Based on Superquadric Models
+author: G. Vezzani, U.Pattacini, and L. Natale
 ---
 
 ## Abstract
