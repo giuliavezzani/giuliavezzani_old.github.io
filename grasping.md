@@ -1,6 +1,6 @@
 ---
 layout: secondary
-title: A Grasping Approach Based on Superquadric Models, G. Vezzani
+title: A Grasping Approach Based on Superquadric Models
 ---
 
 ## Abstract
