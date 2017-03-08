@@ -59,20 +59,29 @@ of intelligence – how the brain produces intelligent behavior and how we may b
 intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of detecting and recognize activities in real videos. We achieved our goal by modeling the problem through Hidden Markov Models and by using Bayesian Regression as main approach.</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 50px;"> <b>International Computer Vision Summer School 2016</b> </li> </summary>
-        <p style="margin-left: 50px;">bla bla bla</p>
+   <summary> <li style="margin-left: 50px;"> <b>International Computer Vision Summer School (ICVSS 2016)</b> </li> </summary>
+        <p style="margin-left: 50px;">ICVSS is organized by University
+of Cambridge and University of Catania, Ragusa, Italy.
+The tenth edition of the International Computer Vision Summer School aims to provide both an
+objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer
+Vision. The courses will be delivered by world renowned experts in the field, from both academia and
+industry, and will cover both theoretical and practical aspects of real Computer Vision problems as
+well as examples of their successful commercialisation. (Selected students: 150/396.)</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
-        <p style="margin-left: 50px;">bla bla bla</p>
+        <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my M.Sc. thesis, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
+object, whose model is known  by using the tactile measurements collected with the robot iCub./p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
-        <p style="margin-left: 50px;">bla bla bla</p>
+        <p style="margin-left: 50px;">The school focuses on humanoid robotics, with the goal to foster collaboration on robot software
+across the boundaries and lifetimes of specific platforms and projects.</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
-        <p style="margin-left: 50px;">bla bla bla</p>
+        <p style="margin-left: 50px;">During my master course I joined the IEEE Conference on Decision and Control as a Crew Member. The CDC is recognized as the premier scientific and engineering conference dedicated to the
+advancement of the theory and practice of systems and control.</p>
  </details>
 
 
