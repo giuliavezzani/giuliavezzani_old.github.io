@@ -51,7 +51,7 @@ by merging vision and tactile information for the humanoid robot iCub.
 
 
 # Submitted papers
-- [A Novel Bayesian Filtering Approach to Tactile Object Recognition](), G. Vezzani, N.
+- [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico.
 - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
