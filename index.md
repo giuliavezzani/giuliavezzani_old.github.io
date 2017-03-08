@@ -105,9 +105,9 @@ advancement of the theory and practice of systems and control.</p>
 
 
 ## Something more
-If you are interested in my research activities,visit me on:
+If you are interested in my research activities, visit my accounts on:
 
-[<img  src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/linkedin.png" width="40" align="left">](https://it.linkedin.com/in/giuliavezzani)  
-[<img  src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/google-scholar.png" width="40" align="right">](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
+[<img  src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/linkedin.png" width="40">](https://it.linkedin.com/in/giuliavezzani)  
+[<img  src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/google-scholar.png" width="40">](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
 
 
