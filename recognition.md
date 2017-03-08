@@ -20,5 +20,5 @@ the iCub humanoid robot). The experiments show that our approach provides good r
 to discriminate objects that are similar even in presence of noisy measurements.
 
 This work has been published in the  Proceeding of the IEEE International Conference on Humanoid Robotics, Cancun,Mexico, 2016.
-The final version of the manuscript is available [here](http://lornat75.github.io/papers/2016/vezzani-humanoids.pdf).
+The final version of the manuscript is available [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/recognition.pdf).
 
