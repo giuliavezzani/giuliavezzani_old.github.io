@@ -41,7 +41,7 @@ My research project consists of improving 3D object modeling, localization, gras
 by merging vision and tactile information for the humanoid robot iCub.
 
 <style>
-    li+ul {padding-left: 200px;}
+    li {margin-left: 50px;}
 </style>
 
 # Experience
