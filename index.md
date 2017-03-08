@@ -44,27 +44,27 @@ by merging vision and tactile information for the humanoid robot iCub.
 # Experience
 
  <details>
-   <summary> <li style="margin-left: 20px;"> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
+   <summary> <li style="margin-left: 40px;"> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 20px;"> <b>Brains, Minds and Machines Summer School 2016</b> </li> </summary>
+   <summary> <li style="margin-left: 40px;"> <b>Brains, Minds and Machines Summer School 2016</b> </li> </summary>
+   <p>bla bla bla</p>
+ </details>
+ <details>
+   <summary> <li style="margin-left: 40px;"> <b>International Computer Vision Summer School 2016</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 20px;"> <b>International Computer Vision Summer School 2016</b> </li> </summary>
+   <summary> <li style="margin-left: 40px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 20px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
+   <summary> <li style="margin-left: 40px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 20px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
-        <p>bla bla bla</p>
- </details>
- <details>
-   <summary> <li style="margin-left: 20px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
+   <summary> <li style="margin-left: 40px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
 
