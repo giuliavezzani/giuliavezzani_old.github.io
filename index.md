@@ -41,10 +41,8 @@ My research project consists of improving 3D object modeling, localization, gras
 by merging vision and tactile information for the humanoid robot iCub.
 
 
-
-
-
 # Experience
+
  <details>
    <summary> <li style="margin-left: 20px;"> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
         <p>bla bla bla</p>
