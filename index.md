@@ -4,7 +4,7 @@ layout: default
 
 # Who I am
 
-I’m an automation engineer, eager to improve my knowledge in humanoid robotics and to give a personal
+I’m an **automation engineer**, eager to improve my knowledge in **humanoid robotics** and to give a personal
 contribution to the research. My work and my studies are motivated by personal achievements as well as
 my passion on robotics. During my study and my research experience, I showed an excellent capability
 of reaching goals by working on individual basis and teaming up with my collegues. I feel dealing with
@@ -13,9 +13,9 @@ challenging problems very exciting and thus I am very prone to work hard and fin
 # 6 facts about me
 - _Automation engineer_, with one year experience on the humanoid robot _iCub_.
 - Considerable theoretical background in automation and _Bayesian filtering_.
-- Proven _C++ skills_, with a good knowledge of YARP and iCub libraries.
-- 3 years experience on _Linux_-based systems.
-- _Hardware experience_ with the humanoid robotic platform iCub.
+- Proven _**C++** skills_, with a good knowledge of YARP and iCub libraries.
+- 3 years experience on _**Linux**_-based systems.
+- _Hardware experience_ with the humanoid robotic platform **iCub**.
 - Main interests in _humanoid robotics_: grasping, localization, manupilation, perception, vision
   and 3D object modeling.
   
@@ -91,9 +91,9 @@ advancement of the theory and practice of systems and control.</p>
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico.
 - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
  G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
- available atarXiv:1607.02757.
+ available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
 - [A Grasping Approach Based on Superquadric Models, G. Vezzani](grasping), U. Pattacini, and L.
-  Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore.)
+  Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore.
   
 # Awards
 - **Ras Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
