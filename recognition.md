@@ -23,4 +23,4 @@ This work has been published in the  Proceeding of the IEEE International Confer
 
  ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icub-touch.png)
  
-[Go back to the home page](./)
+[Home page](./)
