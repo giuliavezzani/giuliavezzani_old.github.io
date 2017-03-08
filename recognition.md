@@ -21,3 +21,4 @@ to discriminate objects that are similar even in presence of noisy measurements.
 
 This work has been published in the  Proceeding of the IEEE International Conference on Humanoid Robotics, Cancun,Mexico, 2016.You can download the final version of the manuscript [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/recognition.pdf).
 
+![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icub-touch.jpg)
