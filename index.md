@@ -52,24 +52,27 @@ and a novel pipeline in order to make the iCub robot perform the handover task, 
 object from one hand to the other.</p>
  </details>
  <details>
-   <summary> <li style="margin-left: 50px;"> <b>Brains, Minds and Machines Summer School 2016</b> </li> </summary>
-   <p>bla bla bla</p>
+   <summary> <li style="margin-left: 50px;"> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </li> </summary>
+   <p style="margin-left: 50px;">BMM summer school is organized by Harvard Medical School
+September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course will give advanced students a “deep end” introduction to the problem
+of intelligence – how the brain produces intelligent behavior and how we may be able to replicate
+intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of detecting and recognize activities in real videos. We achieved our goal by modeling the problem through Hidden Markov Models and by using Bayesian Regression as main approach.</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>International Computer Vision Summer School 2016</b> </li> </summary>
-        <p>bla bla bla</p>
+        <p style="margin-left: 50px;">bla bla bla</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
-        <p>bla bla bla</p>
+        <p style="margin-left: 50px;">bla bla bla</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
-        <p>bla bla bla</p>
+        <p style="margin-left: 50px;">bla bla bla</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
-        <p>bla bla bla</p>
+        <p style="margin-left: 50px;">bla bla bla</p>
  </details>
 
 
