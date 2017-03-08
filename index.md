@@ -45,11 +45,11 @@ by merging **vision and tactile information** for the humanoid robot iCub.
 <p style="margin-left: 50px;">
 <details>
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b> </summary>
-        TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
+        <p>TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
         My work for the TacMan project contributed to improving <b>recognition and manipulation skills</b> for the
 humanoid robot iCub. I developed a model-based tactile object localization and recognition algorithm
 and a novel pipeline in order to make the iCub robot perform the <b>handover task</b>, i.e. transfer an
-object from one hand to the other.</details>
+object from one hand to the other</p>.</details>
 </p>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </li> </summary>
