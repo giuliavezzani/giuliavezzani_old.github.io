@@ -43,8 +43,8 @@ by merging vision and tactile information for the humanoid robot iCub.
 # Experience
   - 
   <details>
-       <summary> **Europen Project TacMan: Tactile Manipulation** More... </summary>
-      bla bla bla
+       <summary> Europen Project TacMan: Tactile Manipulation  </summary>
+       <p>bla bla bla</p>
     </details>
 - []()
 - [Brains, Minds and Machines Summer School 2016]()
