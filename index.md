@@ -100,7 +100,7 @@ advancement of the theory and practice of systems and control.</p>
  Singapore, June 2017.
 - **Dr. Kanako Miura Travel Support Award**, at IEEE International Conference on Humanoids
  Robotics, Cancun, Mexico, Novmber 2016.
-- **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
+- **AEIT Renato Marian Award**, as best student graduated in Information Engineering, Florence, Italy
  
 ## Something more
 If you are interested in my research activities, here you can find:
