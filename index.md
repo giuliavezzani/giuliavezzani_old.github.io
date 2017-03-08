@@ -88,12 +88,12 @@ advancement of the theory and practice of systems and control.</p>
 # Submitted papers
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
- on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico.
+ on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.
 - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
  G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
  available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
 - [A Grasping Approach Based on Superquadric Models, G. Vezzani](grasping), U. Pattacini, and L.
-  Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore.
+  Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore, 2017.
   
 # Awards
 - **Ras Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
@@ -105,7 +105,7 @@ advancement of the theory and practice of systems and control.</p>
 ## Something more
 If you are interested in my research activities, here you can find:
 
-- ![](http://netdna.copyblogger.com/images/linkedin.png =10x) [my linkedin page](https://it.linkedin.com/in/giuliavezzani)
+- [my linkedin page](https://it.linkedin.com/in/giuliavezzani)
  
 - [my Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
 
