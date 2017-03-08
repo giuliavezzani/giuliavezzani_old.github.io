@@ -18,4 +18,6 @@ poses, suitable for grasping even small objects, while avoiding hitting the tabl
 This paper will be available on the Proceedings of IEEE International Conference on Robotics and Automation, June 2017, Singapore.
 You can download preprint of the paper [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/superquadric-grasping.pdf).
 
+![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/grasp-min.png)
+
 [Go back to the home page](./)
