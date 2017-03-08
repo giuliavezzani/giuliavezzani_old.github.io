@@ -40,9 +40,13 @@ currently Universita‘ di Genova, Genova, Italy.
 My research project consists of improving 3D object modeling, localization, grasping and manipulation,
 by merging vision and tactile information for the humanoid robot iCub.
 
+<style>
+    li+ul {padding-left: 20px;}
+</style>
+
 # Experience
  <details>
-   <summary> &nbsp; <li> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
+   <summary> <li> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
         <p>bla bla bla</p>
  </details>
  <details>
