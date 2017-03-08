@@ -18,3 +18,7 @@ of-freedom localization (and recognition) problem recursively by using only cont
 of the proposed approach has been assessed both in simulation and on a real robotic system equipped with tactile sensors (i.e.,
 the iCub humanoid robot). The experiments show that our approach provides good recognition performance and is able
 to discriminate objects that are similar even in presence of noisy measurements.
+
+This work has been published in the  Proceeding of the IEEE International Conference on Humanoid Robotics, Cancun,Mexico, 2016.
+The final version of the manuscript is available [here](http://lornat75.github.io/papers/2016/vezzani-humanoids.pdf).
+
