@@ -16,7 +16,7 @@ challenging problems very exciting and thus I am very prone to work hard and fin
 - Proven _**C++** skills_, with a good knowledge of YARP and iCub libraries.
 - 3 years experience on _**Linux**_-based systems.
 - _Hardware experience_ with the humanoid robotic platform **iCub**.
-- Main interests in _humanoid robotics_: grasping, localization, manupilation, perception, vision
+- Main interests in _humanoid robotics_: **grasping**, **localization**, **manupilation**, perception, vision
   and 3D object modeling.
   
   
@@ -38,7 +38,7 @@ I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia), Bioengi
  Robotics, curriculum Humanoid and Advanced Robotics, Istituto Italiano di Tecnologia &
 currently Universita‘ di Genova, Genova, Italy.
 My research project consists of improving 3D object modeling, localization, grasping and manipulation,
-by merging vision and tactile information for the humanoid robot iCub.
+by merging **vision and tactile information** for the humanoid robot iCub.
 
 
 # Experience
@@ -46,17 +46,17 @@ by merging vision and tactile information for the humanoid robot iCub.
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
         <p style="margin-left: 50px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
-My work for the TacMan project contributed to improving recognition and manipulation skills for the
+        My work for the TacMan project contributed to improving <b>recognition and manipulation skills</b> for the
 humanoid robot iCub. I developed a model-based tactile object localization and recognition algorithm
-and a novel pipeline in order to make the iCub robot perform the handover task, i.e. transfer an
+and a novel pipeline in order to make the iCub robot perform the <b>handover task</b>, i.e. transfer an
 object from one hand to the other.</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </li> </summary>
-   <p style="margin-left: 50px;">BMM summer school is organized by Harvard Medical School
+   <p style="margin-left: 50px;"> BMM summer school is organized by Harvard Medical School
 September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course will give advanced students a “deep end” introduction to the problem
 of intelligence – how the brain produces intelligent behavior and how we may be able to replicate
-intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of detecting and recognize activities in real videos. We achieved our goal by modeling the problem through Hidden Markov Models and by using Bayesian Regression as main approach.</p>
+intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of <b>detecting and recognize activities in real videos</b>. We achieved our goal by modeling the problem through <b>Hidden Markov Models</b> and by using </b>Bayesian Regression</b> as main approach.</p>
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>International Computer Vision Summer School (ICVSS 2016)</b> </li> </summary>
@@ -70,7 +70,7 @@ well as examples of their successful commercialisation. (Selected students: 150/
  </details>
  <details>
    <summary> <li style="margin-left: 50px;"> <b>Research Fellow @ iCub Facility</b> </li> </summary>
-        <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my M.Sc. thesis, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
+        <p style="margin-left: 50px;">I have partnered with the Italian Institute of Technology during my <b>M.Sc. thesis</b>, about  6D object tactile localization, i.e. the problem to estimate the 6-DOF pose of a tridimensional
 object, whose model is known  by using the tactile measurements collected with the robot iCub.</p>
 </details>
 <details>
