@@ -68,9 +68,10 @@ by merging vision and tactile information for the humanoid robot iCub.
  - **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
  
 ## Something more
+If you are interested in my research activities, here you can find:
 
-![](http://netdna.copyblogger.com/images/linkedin.png =10x) [My linkedin  page](https://it.linkedin.com/in/giuliavezzani)
+- ![](http://netdna.copyblogger.com/images/linkedin.png =10x) [my linkedin page](https://it.linkedin.com/in/giuliavezzani)
  
-[My Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
+- [my Google Scholar page](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it)
 
 
