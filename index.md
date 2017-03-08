@@ -57,7 +57,7 @@ by merging vision and tactile information for the humanoid robot iCub.
 - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
  G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
  available atarXiv:1607.02757.
-- [A Grasping Approach Based on Superquadric Models, G. Vezzani](), U. Pattacini, and L.
+- [A Grasping Approach Based on Superquadric Models, G. Vezzani](grasping), U. Pattacini, and L.
   Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore.)
   
 # Awards
