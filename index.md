@@ -44,22 +44,19 @@ by merging vision and tactile information for the humanoid robot iCub.
    <details>
    <summary> <li> <b>Europen Project TacMan: Tactile Manipulation</b> </li> </summary>
         <p>bla bla bla</p>
-   </details>
-    <details>
+    
    <summary> <li> <b>Brains, Minds and Machines Summer School 2016</b> </li> </summary>
         <p>bla bla bla</p>
-   </details>
-    <details>
+
    <summary> <li> <b>International Computer Vision Summer School 2016</b> </li> </summary>
         <p>bla bla bla</p>
-   </details> <details>
+  
    <summary> <li> <b>Research Fellow @ iCub Facility</b> </li> </summary>
         <p>bla bla bla</p>
-   </details> <details>
+   
    <summary> <li> <b>The iCub Summer School - Veni Vidi Vici 2015</b> </li> </summary>
         <p>bla bla bla</p>
-   </details>
-    </details> <details>
+  
    <summary> <li> <b>52th IEEE Conference on Decision and Control</b> </li> </summary>
         <p>bla bla bla</p>
    </details>
@@ -80,7 +77,7 @@ by merging vision and tactile information for the humanoid robot iCub.
  Singapore, June 2017.
 - **Dr. Kanako Miura Travel Support Award**, at IEEE International Conference on Humanoids
  Robotics, Cancun, Mexico, Novmber 2016.
- - **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
+- **AEIT Renato Marian Awar**, as best student graduated in Information Engineering, Florence, Italy
  
 ## Something more
 If you are interested in my research activities, here you can find:
