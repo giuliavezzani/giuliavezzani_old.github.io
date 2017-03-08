@@ -105,7 +105,6 @@ advancement of the theory and practice of systems and control.</p>
 
 
 ## Something more
-If you are interested in my research activities:
 
 <a href="https://it.linkedin.com/pub/giulia-vezzani/b7/a46/51a" style="text-decoration:none;"><span style="color:#3A94EE;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View my LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View my LinkedIn profile</span></a>
 
