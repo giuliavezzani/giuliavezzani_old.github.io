@@ -18,6 +18,6 @@ algorithm has been assessed both in simulation and on a real robotic system equi
 humanoid robot). The experiments show that the algorithm provides accurate and reliable localization even with a low number of particles and, hence, is compatible with real-time requirements.
 
 This work has been conditionally accepted to IEEE Transaction on Robotics.
-A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf)
+A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
 
 [Go back to the home page](./)
