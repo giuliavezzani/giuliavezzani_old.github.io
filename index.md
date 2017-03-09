@@ -25,18 +25,13 @@ challenging problems very exciting and thus I am very prone to work hard and fin
 I was born in Florence in 1991. I got my Bachelor’s degree in Electronic and Telecommunications
 Engineering (cum laude) in July 2013 at the Universita‘ degli Studi di Firenze. In the same university, in
 October 2015, I held my Master’s degree (cum laude) in Electrical and Automation Engineering, with the
-dissertation of the thesis "3D object tactile localization for the humanoid robot iCub." Currently, I am a
-PhD fellow in Bioengineering and Advanced Robotics - curriculum Advanced and Humanoid Robotics - at
-the Istituto Italiano di Tecnologia in Genova, iCub Facility, in collaboration with the Universita‘ di Genova.
-The goal of my PhD program is to improve object localization and manipulation for humanoid robots, by
-exploiting both visual and tactile information and to implement and test the developed techniques on the
-humanoid robot iCub.
+dissertation of the thesis "3D object tactile localization for the humanoid robot iCub." 
+
 
 # Current position
 
-I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia), Bioengineering and Advanced
- Robotics, curriculum Humanoid and Advanced Robotics, Istituto Italiano di Tecnologia &
-currently Universita‘ di Genova, Genova, Italy.
+I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia) in Bioengineering and Advanced
+ Robotics - curriculum Humanoid and Advanced Robotics - Istituto Italiano di Tecnologia & Universita‘ di Genova, Genova, Italy.
 My research project consists of improving 3D object modeling, localization, grasping and manipulation,
 by merging **vision and tactile information** for the humanoid robot iCub.
 
