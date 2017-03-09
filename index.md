@@ -69,7 +69,7 @@ object, whose model is known,  by using the tactile measurements collected with 
 </details>
 <details style="margin-left: 20px;">
   <summary>  <b>The iCub Summer School - Veni Vidi Vici (VVV 2015)</b> </summary>
-       <p style="margin-left: 25x;">The school focused on humanoid robotics, with the goal to foster collaboration on robot software
+       <p style="margin-left: 25px;">The school focused on humanoid robotics, with the goal to foster collaboration on robot software
 across the boundaries and lifetimes of specific platforms and projects.</p>
 </details>
 <details style="margin-left: 20px;">
