@@ -31,7 +31,7 @@ dissertation of the thesis "3D object tactile localization for the humanoid robo
 # Current position
 
 I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia) in Bioengineering and Advanced
- Robotics - curriculum Humanoid and Advanced Robotics - Istituto Italiano di Tecnologia & Universita‘ di Genova, Genova, Italy.
+ Robotics - curriculum **Humanoid and Advanced Robotics** - at the Istituto Italiano di Tecnologia & Universita‘ di Genova, Genova, Italy.
 My research project consists of improving 3D object modeling, localization, grasping and manipulation,
 by merging **vision and tactile information** for the humanoid robot iCub.
 
