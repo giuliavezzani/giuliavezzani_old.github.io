@@ -11,7 +11,10 @@ This paper addresses the problem of grasping unknown objects with a humanoid rob
 This paper will be available on the Proceedings of IEEE International Conference on Robotics and Automation, June 2017, Singapore.
 You can download a preprint of the paper [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/superquadric-grasping.pdf).
 
-The code I developed is available on _github_,respectively the object modeling software <a href="https://doi.org/10.5281/zenodo.262995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.262995.svg" style="vertical-align:middle;" alt="DOI"></a> and  the grasping pose computation module <a href="https://doi.org/10.5281/zenodo.263015"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.263015.svg" style="vertical-align:middle;" alt="DOI"></a>.
+The code I developed is available on _github_:
+
+- superquadric modeling software <a href="https://doi.org/10.5281/zenodo.262995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.262995.svg" style="vertical-align:middle;" alt="DOI"></a> ,
+- grasping pose computation module <a href="https://doi.org/10.5281/zenodo.263015"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.263015.svg" style="vertical-align:middle;" alt="DOI"></a>.
 
 ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/grasp-min.png)
 
