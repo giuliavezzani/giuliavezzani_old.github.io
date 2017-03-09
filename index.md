@@ -37,7 +37,7 @@ by merging **vision and tactile information**.
 
 
 # Experience
-
+Here is a summary of my most important experiences in research field (click to expand).
 <details style="margin-left: 20px;">
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b> </summary>
         <p style="margin-left: 25px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
