@@ -48,14 +48,14 @@ object from one hand to the other. Some preliminary <b>videos</b> of the handove
  <details style="margin-left: 20px;">
    <summary> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </summary>
    <p style="margin-left: 25px;"> BMM summer school is organized by Harvard Medical School
-September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course will give advanced students a “deep end” introduction to the problem
+September, and Massachusetts Institute of Technology, Woods Hole, Massachusetts, US. An intensive three-week course gives advanced students a “deep end” introduction to the problem
 of intelligence – how the brain produces intelligent behavior and how we may be able to replicate
-intelligence in machines. (Selected students: 30/300 nearly.) The school required the accomplishment of a 3 week project, for which I implemented an algorithm, capable of <b>detecting and recognize activities in real videos</b>. We achieved our goal by modeling the problem through <b>Hidden Markov Models</b> and by using <b>Bayesian Regression</b> as main approach.</p>
+intelligence in machines. The summer school selection process is very competitive due to the increasing number of applications and the small number of available positions. In  2016,  30 students have been selected among 300 nearly. The school requires the accomplishment of a 3 week project, for which I implemented an algorithm, capable of <b>detecting and recognize activities in real videos</b>. I achieved my goal by modeling the problem through <b>Hidden Markov Models</b> and by using <b>Bayesian Regression</b> as main approach.</p>
  </details>
  <details style="margin-left: 20px;">
    <summary>  <b>International Computer Vision Summer School (ICVSS 2016)</b>  </summary>
         <p style="margin-left: 25px;">ICVSS is organized by University
-of Cambridge and University of Catania, Ragusa, Italy.
+of Cambridge and University of Catania,  Italy.
 The tenth edition of the International Computer Vision Summer School aims to provide both an
 objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer
 Vision. The courses will be delivered by world renowned experts in the field, from both academia and
