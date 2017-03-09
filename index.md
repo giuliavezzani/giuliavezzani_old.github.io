@@ -44,7 +44,7 @@ Here is a summary of my most important experiences in research field (click to e
         My work for the TacMan project contributed to improving <b>recognition and manipulation skills</b> for the
 humanoid robot iCub. I developed a model-based tactile object localization and recognition algorithm
 and a novel pipeline in order to make the iCub robot perform the <b>handover task</b>, i.e. transfer an
-object from one hand to the other. Some preliminary videos of the handover task are available here: <a  href="https://www.youtube.com/watch?v=uKxRJYRiFO8">handover no. 1</a> and <a href="https://www.youtube.com/watch?v=rc49FZMmR5c">handover no. 2</a> </p></details>
+object from one hand to the other. Some preliminary **videos** of the handover task are available here: <a  href="https://www.youtube.com/watch?v=uKxRJYRiFO8">handover no. 1</a> and <a href="https://www.youtube.com/watch?v=rc49FZMmR5c">handover no. 2</a> </p></details>
  <details style="margin-left: 20px;">
    <summary> <b>Brains, Minds and Machines Summer School (BMM 2016)</b> </summary>
    <p style="margin-left: 25px;"> BMM summer school is organized by Harvard Medical School
