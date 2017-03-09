@@ -21,7 +21,7 @@ humanoid robot). The experiments show that the algorithm provides accurate and r
 This work has been conditionally accepted to IEEE Transaction on Robotics.
 A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
 
-The code I developed is available on _github_ <a href="https://doi.org/10.5281/zenodo.163860"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.163860.svg" style="vertical-align:middle;" alt="DOI"></a>
+The code I developed is available on _github_ <a href="https://doi.org/10.5281/zenodo.163860"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.163860.svg" style="vertical-align:middle;" alt="DOI"></a>.
 
 ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/hand.jpg)
 
