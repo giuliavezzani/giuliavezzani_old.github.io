@@ -13,7 +13,7 @@ You can download a preprint of the paper [here](https://github.com/giuliavezzani
 
 The code I developed is available on _github_:
 
-- superquadric modeling software <a href="https://doi.org/10.5281/zenodo.262995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.262995.svg" style="vertical-align:middle;" alt="DOI"></a> ,
+- superquadric modeling software <a href="https://doi.org/10.5281/zenodo.262995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.262995.svg" style="vertical-align:middle;" alt="DOI"></a>,
 - grasping pose computation module <a href="https://doi.org/10.5281/zenodo.263015"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.263015.svg" style="vertical-align:middle;" alt="DOI"></a>.
 
 ![](https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/grasp-min.png)
