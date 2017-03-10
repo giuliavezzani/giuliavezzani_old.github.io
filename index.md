@@ -95,6 +95,12 @@ advancement of the theory and practice of systems and control.</p>
 - **Dr. Kanako Miura Travel Support Award**, at IEEE International Conference on Humanoids
  Robotics, Cancun, Mexico, Novmber 2016.
 - **AEIT Renato Marian Award**, as best student graduated in Information Engineering, Florence, Italy
+
+#Skills
+- *Programming*: `C++` `Python` `MATLAB` `OpenCV` `CGAL` `Meshlab` `Yarp` `IPOPT` `Lua` `Html` `Jekyll` `CMake`
+- *OS*: `Windows` `Linux`
+- *Versioning Systems*: `Git`
+- *Robots&Platforms*: `iCub` `LEGO Mindstorms`
  
 
 
