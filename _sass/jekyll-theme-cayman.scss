@@ -137,6 +137,11 @@ a {
   margin-left: 300px;
   margin-right: 300px;
   
+ @media screen and (max-width: 500px) {
+      margin-left: 0px;
+      margin-right:0px;
+  }
+  
   
 
   @include large {
