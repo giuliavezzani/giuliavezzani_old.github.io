@@ -115,9 +115,11 @@ a {
 }
 
  #pn1 {display:none;}
+#pn2 {display:block;}
 
 @media all and (max-width: 499px) {
     #pn1 {display: block;} 
+  #pn2 {display: none;} 
 }
 
 
