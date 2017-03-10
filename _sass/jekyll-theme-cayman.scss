@@ -174,13 +174,12 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   font-size: medium;
-  width = window.innerWidth;
- height = window.innerHeight;
+  margin-left: 300px;
+  margin-right:300px;
 
- if(width > 1200 && height > 600)
-  {
-      margin-left: 300px;
-      margin-right: 300px;
+ @media screen and (max-width: 500px) {
+      margin-left: 0px;
+      margin-right:0px;
   }
   
 
