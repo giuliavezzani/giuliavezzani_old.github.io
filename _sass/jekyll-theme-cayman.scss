@@ -114,6 +114,13 @@ a {
  
 }
 
+ #pn1 {display:none;}
+
+@media all and (max-width: 499px) {
+    #pn1 {display: block;} 
+}
+
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
