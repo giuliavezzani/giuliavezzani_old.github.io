@@ -79,7 +79,7 @@ advancement of the theory and practice of systems and control.</p>
 </details>
 
 
-# Submitted papers
+# Papers
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.
