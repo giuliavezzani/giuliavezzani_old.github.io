@@ -86,7 +86,7 @@ advancement of the theory and practice of systems and control.</p>
 - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
  G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
  available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
-- [A Grasping Approach Based on Superquadric Models, G. Vezzani](grasping), U. Pattacini, and L.
+- [A Grasping Approach Based on Superquadric Models](grasping), G. Vezzani, U. Pattacini, and L.
   Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore, 2017.
   
 # Awards
