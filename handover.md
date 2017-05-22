@@ -20,8 +20,15 @@ A preprint of the paper will be available soon. [This video](https://www.youtube
 
 The code I developed is available on _github_: <a href="https://zenodo.org/badge/latestdoi/44164737"><img src="https://zenodo.org/badge/44164737.svg" alt="DOI"></a>.
 
-<p align="center" >
+The following picture represents a sketch of the implemented pipeline. Step 1-2: in-hand point cloud acquisition;
+step 3: in-hand object localization;
+step 4: grasping pose selection;
+step 5-6: handover execution.
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/handover-pipeline.png">
 </p>
+
+
 
 [Home page](./)
