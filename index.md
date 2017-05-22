@@ -80,15 +80,16 @@ advancement of the theory and practice of systems and control.</p>
 
 
 # Papers
-- [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
- Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
- on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.
-- [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
- G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
- available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
+ - [A Novel Pipeline for Bi-manual Handover Task](handover), G. Vezzani, M. Regoli, U. Pattacini 
+ and L. Natale, submitted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
 - [A Grasping Approach Based on Superquadric Models](grasping), G. Vezzani, U. Pattacini, and L.
   Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore, 2017.
-  
+ - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
+ G. Battistelli, L. Chisci, and L. Natale, accepted to IEEE Transaction on Robotics, preprint
+ available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
+- [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
+ Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
+ on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.  
 # Awards
 - **RAS Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
  Singapore, June 2017.
