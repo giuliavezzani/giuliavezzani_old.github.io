@@ -16,7 +16,7 @@ challenging problems very exciting and thus I am very prone to work hard and fin
 - Proven _**C++** skills_, with a good knowledge of YARP and iCub libraries.
 - 3 years experience on _**Linux**_-based systems.
 - _Hardware experience_ with the humanoid robotic platform **iCub**.
-- Main interests in _humanoid robotics_: **grasping**, **localization**, **manupilation**, perception, vision
+- Main interests in _humanoid robotics_: **grasping**, **localization**, **manipulation**, perception, vision
   and 3D object modeling.
   
   
@@ -38,6 +38,9 @@ by merging **vision and tactile information**.
 
 # Experience
 Here is a summary of my experiences in research field (click to expand).
+<details style="margin-left: 20px;">
+ <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia 2017</b>  </summary>
+        <p style="margin-left: 25px;">Easy Peas Robotics is a 2-days crash course whose aim is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of lectures followed by hands-on sessions using the simulator as well as a real iCub head. An  <b>interview</b> (in Italian)  about Campus Party experience is available <a  href="http://bancadati.datavideo.it/PortaleDV/media/20170722/20170722-rai_news_24-rai_news_24_1311-154526847m.mp4">here.</a></p></details>
 <details style="margin-left: 20px;">
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b>  </summary>
         <p style="margin-left: 25px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
@@ -80,8 +83,12 @@ advancement of the theory and practice of systems and control.</p>
 
 
 # Papers
+ - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes](grasping-improved), G. Vezzani, U. Pattacini,
+ G. Pasquale and L. Natale, submitted to IEEE Robotics and Automation Letters (RA-L) and International Conference on Robotics and Automation (ICRA) 2018.
+  - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2018.
+  - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017.
  - [A Novel Pipeline for Bi-manual Handover Task](handover), G. Vezzani, M. Regoli, U. Pattacini 
- and L. Natale, submitted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
+ and L. Natale, accepted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
 - [A Grasping Approach Based on Superquadric Models](grasping), G. Vezzani, U. Pattacini, and L.
   Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore, 2017.
  - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
@@ -90,6 +97,7 @@ advancement of the theory and practice of systems and control.</p>
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.  
+ 
 # Awards
 - **RAS Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
  Singapore, June 2017.
