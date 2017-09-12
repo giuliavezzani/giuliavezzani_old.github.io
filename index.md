@@ -106,7 +106,7 @@ advancement of the theory and practice of systems and control.</p>
 - **AEIT Renato Marian Award**, as best student graduated in Information Engineering, Florence, Italy
 
 # Skills
-- **Programming**: `C++` `Python` `MATLAB` `OpenCV` `CGAL` `Meshlab` `Yarp` `IPOPT` `Lua` `Html``CMake`
+- **Programming**: `C++` `Python` `MATLAB` `OpenCV` `CGAL` `Meshlab` `Yarp` `IPOPT` `Lua` `Html` `CMake`
 - **OS**: `Windows` `Linux`
 - **Versioning Systems**: `Git`
 - **Robots & Platforms**: `iCub` `LEGO Mindstorms`
