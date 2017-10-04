@@ -18,8 +18,8 @@ towards regions of the search space that are more likely with the measurements. 
 algorithm has been assessed both in simulation and on a real robotic system equipped with tactile sensors (i.e., the iCub
 humanoid robot). The experiments show that the algorithm provides accurate and reliable localization even with a low number of particles and, hence, is compatible with real-time requirements.
 
-This work has been conditionally accepted to IEEE Transaction on Robotics.
-A preprint of this work is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
+This work has been published to IEEE Transaction on Robotics, vol. 33 no. 5 pag. 1139-1155, October 2017.
+The manuscript is available [on arxiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf).
 
 The code I developed is available on _github_ <a href="https://doi.org/10.5281/zenodo.163860"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.163860.svg" style="vertical-align:middle;" alt="DOI"></a>.
 
