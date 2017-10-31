@@ -40,6 +40,6 @@ robot can robustly lift the object (Step 6).
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icra-pipeline-nofilter-min.png">
 </p>
 
-[1]  G. Vezzani, U. Pattacini, and L. Natale, “A grasping approach based on superquadric models,” in _IEEE International Confeference on Robotics Automation_, pp. 1579–1586, IEEE, 2017
+[1]  G. Vezzani, U. Pattacini, and L. Natale, “A grasping approach based on superquadric models,” in _IEEE International Confeference on Robotics Automation_, pp. 1579–1586, IEEE, 2017.
 
 [Home page](./)
