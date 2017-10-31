@@ -182,9 +182,9 @@ a {
   margin-left: 300px;
   margin-right: 300px;
   
- @media screen and (max-width: 1600px) {
-      margin-left: 0px;
-      margin-right:0px;
+ @media screen and (max-width: 1000px) {
+      margin-left: -200px;
+      margin-right -200px;
   }
 
   @include large {
