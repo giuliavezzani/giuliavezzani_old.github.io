@@ -178,6 +178,11 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   font-size: large;
+  
+  @media screen and (max-width: 1000px) {
+      margin-left: 0px;
+      margin-right:0px;
+  }
 
   @include large {
     font-size: 1.75rem;
