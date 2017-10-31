@@ -22,15 +22,15 @@ The code I developed is available on _github_:
 
 
 The following picture represents a sketch of the modeling and grasping pipeline. 1) The object is stored by the object property
-collector with the label object. 2) LbpExtract provides the 2D blob of the object. 3) The 3D point cloud is
-extracted from the disparity map, by querying the Structure From Motion module. 4) The superquadric
-modeling the object is reconstructed. 5) The grasping pose and approaching trajectory for the right hand
-are computed. 6) The robot grasps the object.
+collector with the label object. 2) A segmentation algorithm provides the 2D blob of the object. 3) The 3D point cloud is
+extracted from the disparity map. 4) The superquadric
+modeling the object is reconstructed [1]. 5) The grasping pose and approaching trajectory for the right hand
+are computed [1]. 6) The robot grasps the object.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/results.png">
 </p>
 
-
+[1] G. Vezzani, U. Pattacini, and L. Natale, “A grasping approach based on superquadric models,” in _IEEE International Confeference on Robotics Automation_, pp. 1579–1586, IEEE, 2017.
 
 [Home page](./)
