@@ -178,14 +178,6 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   font-size: large;
-  
-  margin-left: 300px;
-  margin-right: 300px;
-  
- @media screen and (max-width: 1000px) {
-      margin-left: 0px;
-      margin-right 0px;
-  }
 
   @include large {
     font-size: 1.75rem;
@@ -204,13 +196,6 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   font-size: medium;
-  margin-left: 300px;
-  margin-right:300px;
-
- @media screen and (max-width: 1000px) {
-      margin-left: 0px;
-      margin-right:0px;
-  }
   
 
   @include large {
