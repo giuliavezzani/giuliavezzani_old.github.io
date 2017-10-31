@@ -86,7 +86,7 @@ advancement of the theory and practice of systems and control.</p>
  - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes](), G. Vezzani, U. Pattacini,
  G. Pasquale and L. Natale, submitted to IEEE Robotics and Automation Letters (RA-L) and International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
   - [Markerless visual servoing on unknown objects for humanoid robot platforms](), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
-  - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017 (preprint will be available soon).
+  - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](https://github.com/giuliavezzani/giuliavezzani.github.io/blob/master/frontiers.md), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017 (preprint will be available soon).
  - [A Novel Pipeline for Bi-manual Handover Task](handover), G. Vezzani, M. Regoli, U. Pattacini 
  and L. Natale, accepted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
   - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
