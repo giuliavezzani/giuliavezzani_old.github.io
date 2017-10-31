@@ -1,7 +1,7 @@
 ---
 layout: secondary
 
-title: MImproving Superquadric Modeling and Grasping with Prior on Object Shapes
+title: Improving Superquadric Modeling and Grasping with Prior on Object Shapes
 author: G. Vezzani, U. Pattacini, G. Pasquale and  L. Natale
 ---
 
