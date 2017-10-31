@@ -28,7 +28,7 @@ modeling the object is reconstructed. 5) The grasping pose and approaching traje
 are computed. 6) The robot grasps the object.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/handover-pipeline.png">
+<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/results.png">
 </p>
 
 
