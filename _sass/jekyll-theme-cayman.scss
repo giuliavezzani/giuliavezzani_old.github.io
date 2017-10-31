@@ -183,8 +183,8 @@ a {
   margin-right: 300px;
   
  @media screen and (max-width: 1000px) {
-      margin-left: -200px;
-      margin-right -200px;
+      margin-left: 0px;
+      margin-right 0px;
   }
   }
 
@@ -208,7 +208,7 @@ a {
   margin-left: 300px;
   margin-right:300px;
 
- @media screen and (max-width: 500px) {
+ @media screen and (max-width: 1000px) {
       margin-left: 0px;
       margin-right:0px;
   }
