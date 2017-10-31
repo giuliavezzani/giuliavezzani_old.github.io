@@ -39,10 +39,6 @@ robot can robustly lift the object (Step 6).
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icra-pipeline-nofilter-min.png">
 </p>
 
-[1]  G. Vezzani, U. Pattacini, and L. Natale, “A grasping approach based on superquadric models,” in
-_IEEE International Confeference on Robotics Automation_, pp. 1579–1586, IEEE, 2017
 
-[2] C.  Fantacci,  U.  Pattacini,  V.  Tikhanoff,  and  L.  Natale,  “Visual  end-effector tracking using a 3D model-aided particle filter for humanoid
-robot  platforms,” in _IEEE/RSJ  International Conference on Intelligent Robots and Systems_, Vancouver, BC,Canada, September 24–28, 2017. arXiv preprint 1703.0477.
 
 [Home page](./)
