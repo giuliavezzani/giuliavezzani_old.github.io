@@ -93,7 +93,7 @@ advancement of the theory and practice of systems and control.</p>
  G. Battistelli, L. Chisci, and L. Natale, IEEE Transaction on Robotics vol. 33 n. 5 pag. 1139-1155, 
  available at [arXiv:1607.02757](https://arxiv.org/pdf/1607.02757.pdf), October 2017.
 - [A Grasping Approach Based on Superquadric Models](grasping), G. Vezzani, U. Pattacini, and L.
-  Natale, accepted at IEEE International Conference on Robotics and Automation, Singapore, 2017.
+  Natale, in _IEEE International Conference on Robotics and Automation_, pp. 1579-1586, Singapore, 2017.
 - [A Novel Bayesian Filtering Approach to Tactile Object Recognition](recognition), G. Vezzani, N.
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.  
