@@ -36,6 +36,7 @@ pose quality index (Step 5). In particular, the index takes into account the ove
 and the object superquadric O and favors grasping poses with orientations easily reachable by the robot.
 Once the selected hand reaches the desired pose, grasp stabilization is achieved via tactile feedback so that the
 robot can robustly lift the object (Step 6).
+<p>
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icra-pipeline-nofilter-min.png">
 </p>
 
