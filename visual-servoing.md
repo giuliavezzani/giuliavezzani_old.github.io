@@ -18,7 +18,7 @@ tation method of [1] for providing a grasping pose. 3)  An  open  loop  phase  b
 the proximity of the object and in the cameras field-of-views. 4) The 3D model-aided particle filter of [2] estimates the
 end-effector pose using RGB images. 5) Visual servoing uses the particle filter output of 4) in order to reach for the pose computed in 2). 6) Reaching completes and the robot grasps the object.
 <p align="center">
-<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/results.png">
+<img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/pipeline.png">
 </p>
 
 [1]  G. Vezzani, U. Pattacini, and L. Natale, “A grasping approach based on superquadric models,” in
