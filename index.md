@@ -83,7 +83,7 @@ advancement of the theory and practice of systems and control.</p>
 
 
 # Papers
- - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes](), G. Vezzani, U. Pattacini,
+ - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes]()grasping2, G. Vezzani, U. Pattacini,
  G. Pasquale and L. Natale, submitted to IEEE Robotics and Automation Letters (RA-L) and International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
   - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
   - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017 (preprint will be available soon).
