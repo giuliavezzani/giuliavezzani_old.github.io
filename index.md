@@ -39,7 +39,7 @@ by merging **vision and tactile information**.
 # Experience
 Here is a summary of my experiences in research field (click to expand):
 <details style="margin-left: 20px;">
- <summary>  <b>Visiting Scholar @ BAIR lab, UC Berkeley (January - July 2018)</b>  </summary>
+ <summary>  <b>Visiting Scholar @ BAIR, UC Berkeley (January - July 2018)</b>  </summary>
         </details>
 <details style="margin-left: 20px;">
  <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia (2017)</b>  </summary>
