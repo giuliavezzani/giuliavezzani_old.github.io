@@ -37,9 +37,12 @@ by merging **vision and tactile information**.
 
 
 # Experience
-Here is a summary of my experiences in research field (click to expand).
+Here is a summary of my experiences in research field (click to expand):
 <details style="margin-left: 20px;">
- <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia 2017</b>  </summary>
+ <summary>  <b>Visiting Scholar @ BAIR lab, UC Berkeley (January - July 2018)</b>  </summary>
+        </details>
+<details style="margin-left: 20px;">
+ <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia (2017)</b>  </summary>
         <p style="margin-left: 25px;">Easy Peas Robotics is a 2-days crash course whose aim is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of lectures followed by hands-on sessions using the simulator as well as a real iCub head. An  <b>interview</b> (in Italian)  about Campus Party experience is available <a  href="http://bancadati.datavideo.it/PortaleDV/media/20170722/20170722-rai_news_24-rai_news_24_1311-154526847m.mp4">here.</a></p></details>
 <details style="margin-left: 20px;">
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b>  </summary>
@@ -84,8 +87,8 @@ advancement of the theory and practice of systems and control.</p>
 
 # Publications
  - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes](grasping2), G. Vezzani, U. Pattacini,
- G. Pasquale and L. Natale, submitted to IEEE Robotics and Automation Letters (RA-L) and International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
-  - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
+ G. Pasquale and L. Natale, accepted to IEEE Robotics and Automation Letters (RA-L) and International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
+  - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, accepted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
   - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017 (preprint will be available soon).
  - [A Novel Pipeline for Bi-manual Handover Task](handover), G. Vezzani, M. Regoli, U. Pattacini 
  and L. Natale, accepted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
