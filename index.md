@@ -96,8 +96,8 @@ advancement of the theory and practice of systems and control.</p>
 # Publications
  - [Improving Superquadric Modeling and Grasping with Prior on Object Shapes](grasping2), G. Vezzani, U. Pattacini,
  G. Pasquale and L. Natale, accepted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
-  - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, accepted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint will be available soon).
-  - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 2017 (preprint will be available soon).
+  - [Markerless visual servoing on unknown objects for humanoid robot platforms](visual-servoing), C. Fantacci, G. Vezzani, U. Pattacini, V. Tikhanoff  and L. Natale, accepted to IEEE International Conference on Robotics and Automation (ICRA) 2018 (preprint available on [arxiv](https://arxiv.org/pdf/1710.04465.pdf)).
+  - [Real-time pipeline for object modeling and grasping pose selection via superquadric functions](frontiers), G. Vezzani,and L. Natale, submitted to the Frontiers topic "Building the iCub Mindware: Open-source Software for Robot Intelligence and Autonomy", 4, 59, 2017.
  - [A Novel Pipeline for Bi-manual Handover Task](handover), G. Vezzani, M. Regoli, U. Pattacini 
  and L. Natale, accepted to Special issue on Advanced Manipulation, Advanced Robotics, 2017.
   - [Memory unscented particle filter for 6-DOF tactile localization](mupf), G. Vezzani, U. Pattacini,
@@ -112,17 +112,17 @@ advancement of the theory and practice of systems and control.</p>
 # Achievements
 - **Modeling and Grasping Pipeline for the Humanoid Robot iCub**
 
-I developed a new modeling and grasping method based on superquadric functions. The C++
-implementation is available for the iCub humanoid robot. More information are available [here](https://github.com/robotology/superquadric-grasp-demo).
+  I developed a new modeling and grasping method based on superquadric functions. The C++
+  implementation is available for the iCub humanoid robot. More information are available [here](https://github.com      /robotology/superquadric-grasp-demo).
 - **Handover Pipeline for the Humanoid Robot iCub**
 
-I designed an autonomous pipeline for executing the handover task with the humanoid robot iCub. [Here](https://www.youtube.com/watch?v=be27-FGU-Sk)
-is a video of the pipeline execution.
+  I designed an autonomous pipeline for executing the handover task with the humanoid robot iCub. [Here]  (https://www.youtube.com/watch?v=be27-FGU-Sk)
+  is a video of the pipeline execution.
 - **6-DOF Tactile Localization Algorithm**
 
-During my master thesis, I designed a novel localization algorithm, able to localize known objects by
-using only 3D points belonging to the object surface. This algorithm has been used also for object
-recognition and visual localization.
+  During my master thesis, I designed a novel localization algorithm, able to localize known objects by
+  using only 3D points belonging to the object surface. This algorithm has been used also for object
+  recognition and visual localization.
 
 
 # Skills
