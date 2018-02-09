@@ -6,8 +6,8 @@ layout: default
 I am a **PhD student** in humanoid robotics, with **automation engineering** background and three year
 **research experience**.
 
-My current position and my past studies have taught me how to solve challenging problems, quickly
-develop new skills, team up with people with different backgrounds and supervise and manage research
+My current position and my past studies have taught me how to _solve challenging problems_, quickly
+_develop new skills_, _team up_ with people with different backgrounds and _supervise and manage_ research
 activity of other students.
 In my future employments, I am eager to keep giving my personal contribution to research in humanoid
 robotics and AI. I feel dealing with challenging problems very exciting and thus I am very prone to work
@@ -46,8 +46,7 @@ Here is a summary of my experiences in research field (click to expand):
        <p style="margin-left: 25px;">     
        My research activity at Bair focuses on the design of new deep reinforcement learning techniques
         aimed at improving robot manipulation and grasping capabilities.
-       </p></details>
-       </details>    
+       </p></details> 
 <details style="margin-left: 20px;">
  <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia (2017)</b>  </summary>
         <p style="margin-left: 25px;">I was one of the mentors and organizers of Easy Peasy Robotics, a 2-days crash course whose aim
