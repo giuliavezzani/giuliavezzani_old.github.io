@@ -3,21 +3,24 @@ layout: default
 ---
 
 # Who I am
+I am a **PhD student** in humanoid robotics, with **automation engineering** background and three year
+**research experience**.
 
-I’m an **automation engineer**, eager to improve my knowledge in **humanoid robotics** and to give a personal
-contribution to the research. My work and my studies are motivated by personal achievements as well as
-my passion on robotics. During my study and my research experience, I showed an excellent capability
-of reaching goals by working on individual basis and teaming up with my collegues. I feel dealing with
-challenging problems very exciting and thus I am very prone to work hard and find suitable solutions.
+My current position and my past studies have taught me how to solve challenging problems, quickly
+develop new skills, team up with people with different backgrounds and supervise and manage research
+activity of other students.
+In my future employments, I am eager to keep giving my personal contribution to research in humanoid
+robotics and AI. I feel dealing with challenging problems very exciting and thus I am very prone to work
+hard and find suitable solutions.
 
 # 6 facts about me
-- _Automation engineer_, with one year experience on the humanoid robot _iCub_.
-- Considerable theoretical background in automation and _Bayesian filtering_.
-- Proven _**C++** skills_, with a good knowledge of YARP and iCub libraries.
-- 3 years experience on _**Linux**_-based systems.
+- Automation engineer, with three year experience in _**humanoid robotics**_.
+- Three year _**C++** skills_, with a good knowledge of YARP and iCub libraries.
+- Background: _Robotics_, _Bayesian filtering_, _Optimization_ and _**Deep Reinforcement Learning**_.
+- Four years experience on _**Linux**_-based systems.
 - _Hardware experience_ with the humanoid robotic platform **iCub**.
-- Main interests in _humanoid robotics_: **grasping**, **localization**, **manipulation**, perception, vision
-  and 3D object modeling.
+- Main interests: **Grasping**, Localization,  **Perception**,  3D
+object modeling and **Deep Reinforcement Learning**.
   
   
 # Short bio
@@ -40,10 +43,16 @@ by merging **vision and tactile information**.
 Here is a summary of my experiences in research field (click to expand):
 <details style="margin-left: 20px;">
  <summary>  <b>Visiting Scholar @ BAIR, UC Berkeley (January - July 2018)</b>  </summary>
-        </details>
+       <p style="margin-left: 25px;">     
+       My research activity at Bair focuses on the design of new deep reinforcement learning techniques
+        aimed at improving robot manipulation and grasping capabilities.
+       </p></details>
+       </details>    
 <details style="margin-left: 20px;">
  <summary>  <b>Easy Peasy Robotics Mentor @ Campus Party Italia (2017)</b>  </summary>
-        <p style="margin-left: 25px;">Easy Peas Robotics is a 2-days crash course whose aim is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of lectures followed by hands-on sessions using the simulator as well as a real iCub head. An  <b>interview</b> (in Italian)  about Campus Party experience is available <a  href="http://bancadati.datavideo.it/PortaleDV/media/20170722/20170722-rai_news_24-rai_news_24_1311-154526847m.mp4">here.</a></p></details>
+        <p style="margin-left: 25px;">I was one of the mentors and organizers of Easy Peasy Robotics, a 2-days crash course whose aim
+was to provide participants with a brief overview of the research problems and applications related to
+humanoid robot programming, from perception to control. An  <b>interview</b> (in Italian)  about Campus Party experience is available <a  href="http://bancadati.datavideo.it/PortaleDV/media/20170722/20170722-rai_news_24-rai_news_24_1311-154526847m.mp4">here.</a></p></details>
 <details style="margin-left: 20px;">
  <summary>  <b>Europen Project TacMan: Tactile Manipulation (2017)</b>  </summary>
         <p style="margin-left: 25px;">TacMan is a project founded by the European Union, FP7 ICT Cognitive System and Robotics, no. 610967.
