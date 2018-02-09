@@ -16,6 +16,8 @@ The following picture represents  the  proposed  markerless  visual  servoing fr
 partial point cloud acquired from stereo vision. 2) The  estimated  model  is  exploited  by  the  pose  computation method of [1] for providing a grasping pose. 3)  An  open  loop  phase  brings  the  robot’s  end-effector  in
 the proximity of the object and in the cameras field-of-views. 4) The 3D model-aided particle filter of [2] estimates the
 end-effector pose using RGB images. 5) Visual servoing uses the particle filter output of 4) in order to reach for the pose computed in 2). 6) Reaching completes and the robot grasps the object.
+
+[Here](https://www.youtube.com/watch?v=2qcaLLipqPA) is a video of the execution of our approach.
 <p align="center">
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/pipeline.png">
 </p>
