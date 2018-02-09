@@ -38,7 +38,7 @@ Once the selected hand reaches the desired pose, grasp stabilization is achieved
 robot can robustly lift the object (Step 6).
 
 [Here](https://www.youtube.com/watch?v=dfYdBQ-mBJQ&feature=youtu.be) is a demonstration of our grasping pipeline.
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icra-pipeline-nofilter-min.png">
 </p>
 
