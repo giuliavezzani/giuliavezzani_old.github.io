@@ -112,7 +112,7 @@ advancement of the theory and practice of systems and control.</p>
 # Achievements
 - **Modeling and Grasping Pipeline for the Humanoid Robot iCub**. I developed a new modeling and grasping method based on superquadric functions. The C++
   implementation is available for the iCub humanoid robot. More information are available [here](https://github.com      /robotology/superquadric-grasp-demo).
-- **Handover Pipeline for the Humanoid Robot iCub**.  I designed an autonomous pipeline for executing the handover task with the humanoid robot iCub. [Here]  (https://www.youtube.com/watch?v=be27-FGU-Sk)
+- **Handover Pipeline for the Humanoid Robot iCub**.  I designed an autonomous pipeline for executing the handover task with the humanoid robot iCub. [Here](https://www.youtube.com/watch?v=be27-FGU-Sk)
   is a video of the pipeline execution.
 - **6-DOF Tactile Localization Algorithm**.  During my master thesis, I designed a novel localization algorithm, able to localize known objects by
   using only 3D points belonging to the object surface. This algorithm has been used also for object
