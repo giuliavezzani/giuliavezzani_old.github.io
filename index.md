@@ -109,20 +109,41 @@ advancement of the theory and practice of systems and control.</p>
  Jamali , U. Pattacini , G. Battistelli, L. Chisci, and L. Natale, IEEE International Conference
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.  
  
+# Achievements
+- **Modeling and Grasping Pipeline for the Humanoid Robot iCub**
+I developed a new modeling and grasping method based on superquadric functions. The C++
+implementation is available for the iCub humanoid robot. More information are available [here](https://github.com/robotology/superquadric-grasp-demo).
+- **Handover Pipeline for the Humanoid Robot iCub**
+I designed an autonomous pipeline for executing the handover task with the humanoid robot iCub.[Here](https://www.youtube.com/watch?v=be27-FGU-Sk)
+is a video of the pipeline execution.
+- **6-DOF Tactile Localization Algorithm**
+During my master thesis, I designed a novel localization algorithm, able to localize known objects by
+using only 3D points belonging to the object surface. This algorithm has been used also for object
+recognition and visual localization.
+
+
+# Skills
+- **Programming**: `C++` `Yarp` `IPOPT` `Python` `TensorFlow` `MATLAB` `OpenCV` `CGAL` `Meshlab` `Lua` `Html` `CMake` 
+- **OS**: `Windows` `Linux`
+- **Versioning Systems**: `Git`
+- **Robots & Platforms**: `iCub` 
+- **Soft skills**:  `Time management`, `Problem solving`, `Critical thinking`, `Teamwork`, `Decision
+Making`, `Motivation`
+
+# Topics of Interest
+ - `Grasping`
+ - `Localization`
+ - `Perception`
+ - `Deep Reinforcement`
+ - `Learning`
+ - `3D object modeling`
+ 
 # Awards
 - **RAS Travel Grant**, at IEEE International Conference on Robotics and Automation (ICRA),
  Singapore, June 2017.
 - **Dr. Kanako Miura Travel Support Award**, at IEEE International Conference on Humanoids
  Robotics, Cancun, Mexico, Novmber 2016.
 - **AEIT Renato Marian Award**, as best student graduated in Information Engineering, Florence, Italy
-
-# Skills
-- **Programming**: `C++` `Python` `MATLAB` `OpenCV` `CGAL` `Meshlab` `Yarp` `IPOPT` `Lua` `Html` `CMake` `TensorFlow`
-- **OS**: `Windows` `Linux`
-- **Versioning Systems**: `Git`
-- **Robots & Platforms**: `iCub` `LEGO Mindstorms`
- 
-
 
 ## Something more
 
