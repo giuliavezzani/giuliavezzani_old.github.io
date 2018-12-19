@@ -37,6 +37,7 @@ and the object superquadric _O_ and favors grasping poses with orientations easi
 Once the selected hand reaches the desired pose, grasp stabilization is achieved via tactile feedback so that the
 robot can robustly lift the object (Step 6).
 
+This paper is available [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/improving-modeling.pdf). 
 [Here](https://www.youtube.com/watch?v=dfYdBQ-mBJQ&feature=youtu.be) is a demonstration of our grasping pipeline.
 <p align="center">
 <img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/icra-pipeline-nofilter-min.png">
