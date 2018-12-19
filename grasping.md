@@ -8,7 +8,7 @@ author: G. Vezzani, U.Pattacini, and L. Natale
 
 This paper addresses the problem of grasping unknown objects with a humanoid robot. Conventional approaches fail when the shape, dimension or pose of the objects are missing. We propose a novel approach in which the grasping problem is solved by modeling the object and the volume graspable by the hand with superquadric functions. The object model is computed in real-time using stereo vision. Pose computation is formulated as a nonlinear constrained optimization problem, which is solved in real-time using the Ipopt software package. Notably, our method finds solutions in which the fingers are located on portions of the object that are occluded by vision. The performance of our approach has been assessed on a real robotic system, the iCub humanoid robot. The experiments show that the proposed method computes proper poses, suitable for grasping even small objects, while avoiding hitting the table with the fingers.
 
-This paper is available [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/superquadric-grasping.pdf). [This video](https://www.youtube.com/watch?v=eGZO8peAVao) shows the testing of our approach on a set of everyday objects.
+This paper can be downloaded [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/superquadric-grasping.pdf). [This video](https://www.youtube.com/watch?v=eGZO8peAVao) shows the testing of our approach on a set of everyday objects.
 
 The code I developed is available on _github_:
 

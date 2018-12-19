@@ -16,7 +16,7 @@ selected pose is finally used to accomplish the handover task. The performance o
 been assessed on a real robotic system, the iCub humanoid robot, on a set of objects from the YCB
 dataset. Experiments show that the proposed method allows performing proper and reliable handovers
 with different every-day objects.
-The manuscript is available [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/handover.pdf). [This video](https://www.youtube.com/watch?v=be27-FGU-Sk) shows some examples of successful handovers with the iCub humanoid robot.
+The manuscript can be downloaded  [here](https://github.com/giuliavezzani/giuliavezzani.github.io/raw/master/files/handover.pdf). [This video](https://www.youtube.com/watch?v=be27-FGU-Sk) shows some examples of successful handovers with the iCub humanoid robot.
 
 The code I developed is available on _github_: <a href="https://zenodo.org/badge/latestdoi/44164737"><img src="https://zenodo.org/badge/44164737.svg" alt="DOI"></a>.
 
