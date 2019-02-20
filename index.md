@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Who I am
-I am a **PhD student** in humanoid robotics, with **automation engineering** background and three year
+I am a **PhD candidate and research fellow** in humanoid robotics, with **automation engineering** background and four year
 **research experience**.
 
 My current position and my past studies have taught me how to _solve challenging problems_, quickly
@@ -15,7 +15,7 @@ robotics and AI. I feel dealing with challenging problems very exciting and thus
 hard and find suitable solutions.
 
 # 6 facts about me
-- Automation engineer, with three year experience in _**humanoid robotics**_.
+- _**Researcher in robotics**_ and AI with four year experience.
 - Proven _**C++** skills_, with a good knowledge of YARP and iCub libraries.
 - _Tensorflow_ and _Python_ knowledge for Deep Reinforcement Learning.
 - Background: _Robotics_, _Bayesian filtering_, _Optimization_ and _**Deep Reinforcement Learning**_.
@@ -28,10 +28,9 @@ object modeling and **Deep Reinforcement Learning**.
 
 # Current position
 
-I am a **Phd Fellow** @ iCub Facility (Istituto Italiano di Tecnologia) in Bioengineering and Advanced
- Robotics - curriculum **Humanoid and Advanced Robotics** - at the Istituto Italiano di Tecnologia & Universita‘ di Genova, Italy.
+I am a **Phd candidate and research fellow** @ iCub Facility (Istituto Italiano di Tecnologia)
 
-The goal of my PhD program is to improve _perception_ and _manipulation skills_ for humanoid robots, by
+The goal of my research is to improve _perception_ and _manipulation skills_ for humanoid robots, by
 exploiting both _visual_ and _tactile information_. All my new ideas have been implemented in C++ and
 tested on the humanoid robot iCub.
 
@@ -154,7 +153,7 @@ advancement of the theory and practice of systems and control.</p>
 
 ## Something more
 
-<a href="https://it.linkedin.com/pub/giulia-vezzani/b7/a46/51a" style="text-decoration:none;"><span style="color:#3A94EE;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View my LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View my LinkedIn profile</span></a>
+<a href="https://it.linkedin.com/pub/giulia-vezzani/b7/a46/51a" style="text-decoration:none;"><span style="color:#3A94EE;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View my LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;</span></a>
 
 
 <a href="https://scholar.google.it/citations?user=Zlpuln8AAAAJ" style="text-decoration:none;"><span style="color:#3A94EE;"><img src="https://raw.githubusercontent.com/giuliavezzani/giuliavezzani.github.io/master/files/google-scholar2.png" width="15" height="15" alt="View my Google Scholar page" style="vertical-align:middle;" border="0">&nbsp;&nbsp;View my Google Scholar page</span></a>
